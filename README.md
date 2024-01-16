@@ -1,3 +1,3 @@
 # Jet Comparison Studies to derive Jet Energy Correction (JES/JER)
 
-new version of online-offline jet comparison work with coffea2023.
+new version of online-offline jet comparison work with coffea202x.
